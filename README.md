@@ -1,29 +1,9 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=niles87&show_icons=true&theme=dark&count_private=true"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niles87&theme=dark"></a> 
 
-<!--
-**niles87/niles87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies And Tools
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/OS-iOS-red?style=plastic&logo=Apple&logoColor=white&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/OS-Windows-red?style=plastic&logo=windows&logoColor=white&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Editor-Visual%20Studio-red?style=plastic&logo=visual%20studio&logoColor=blueviolet&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Editor-VS%20code-red?style=plastic&logo=visual-studio-code&logoColor=informational&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Code-Node-red?style=plastic&logo=Node.JS&logoColor=green&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Code-C%23-red?style=plastic&logo=c-Sharp&logoColor=blueviolet&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Code-React-red?style=plastic&logo=react&logoColor=blue&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Tool-Unity-red?style=plastic&logo=Unity&logoColor=white&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Tool-Git-red?style=plastic&logo=Git&logoColor=red&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Tool-MongoDB-red?style=plastic&logo=mongoDB&logoColor=green&color=black&labelColor=280098"> <img src="https://img.shields.io/badge/Tool-MySQL-red?style=plastic&logo=mySQL&logoColor=blue&color=black&labelColor=280098">
 
-<!--
-[![Header](https://raw.githubusercontent.com/niles87/<OWNER>/<OWNER>/readme_header.png "Header")](https://niles87.dev/)
--->
+### What I'm Working On
 
-<img src="https://github-readme-stats.vercel.app/api?username=niles87&show_icons=true&theme=dark&count_private=true"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niles87&theme=dark&layout=compact"></a> <a src="https://github.com/niles87/Project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=Project3&theme=dark"></a> <a src="https://github.com/niles87/book-finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=book-finder&theme=dark"></a> <a src="https://github.com/niles87/python_REST"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=python_REST&theme=dark"></a> <a src="https://github.com/niles87/ProjectTwo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=ProjectTwo&theme=dark"></a> <a src="https://github.com/niles87/Project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=Project-1&theme=dark"></a><a src="https://github.com/niles87/flappy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=flappy&theme=dark"></a><a src="https://github.com/niles87/vigilant-fortnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=vigilant-fortnight&theme=dark"></a>
-
-## Technologies && Tools
-
-<img src="https://img.shields.io/badge/OS-iOS-informational?style=plastic&logo=Apple&logoColor=white&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Editor-Visual%20Studio-red?style=plastic&logo=visual%20studio&logoColor=blueviolet&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Code-Node-informational?style=plastic&logo=Node.JS&logoColor=green&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Code-C%23-informational?style=plastic&logo=c-Sharp&logoColor=blueviolet&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Tool-Unity-informational?style=plastic&logo=Unity&logoColor=white&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Tool-Git-informational?style=plastic&logo=Git&logoColor=red&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Tool-MongoDB-informational?style=plastic&logo=mongoDB&logoColor=green&color=black&labelColor=blue"> <img src="https://img.shields.io/badge/Tool-MySQL-informational?style=plastic&logo=mySQL&logoColor=black&color=black&labelColor=blue">
-
-What I'm currently working on
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=vigilant-fortnight&theme=dark)](https://github.com/niles87/vigilant-fortnight)
+<a src="https://github.com/niles87/vigilant-fortnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=vigilant-fortnight&theme=dark&layout=compact"></a>
