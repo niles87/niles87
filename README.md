@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=niles87&show_icons=true&theme=dark&count_private=true"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niles87&theme=dark"></a> 
-![github-stats](https://github-readme-stats.vercel.app/api?username=niles87&show_icons=true&theme=dark&count_private=true)
-![github-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niles87&theme=dark)
+
 
 ## Technologies And Tools
 
