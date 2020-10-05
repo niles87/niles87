@@ -7,4 +7,4 @@
 
 ### What I'm Working On
 
-<a src="https://github.com/niles87/vigilant-fortnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=vigilant-fortnight&theme=dark&layout=compact"></a>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=niles87&repo=zoom-clone&theme=dark&layout=compact)](https://github.com/niles87/zoom-clone)
